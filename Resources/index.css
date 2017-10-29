@@ -14,7 +14,7 @@ h1{
   color: white;
 }
 
-#navigation_links{
+.btn-nav{
   font-size: 18px;
   color: white;
 }
@@ -31,4 +31,23 @@ h3{
 
 p{
   font-size: 14px;
+}
+
+#background2{
+  background-image: url("../Resources/Images/the-flatiron-building.png");
+  background-position: center;
+}
+
+h4{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#footer
+  p{
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
+    text-align: left;
 }
